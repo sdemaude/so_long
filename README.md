@@ -44,7 +44,7 @@ To run So_Long, follow these steps:
 
 ## Cheatcode
 
-If you haven't collected all the items but reach the exit, simply press `4`, `2`, and `Enter` keys together to win instantly !
+If you haven't collected all the items but reach the exit, simply press `4`, `2` and `Enter` keys together to win instantly !
 
 ## Credits
 
