@@ -14,7 +14,7 @@ To run So_Long, follow these steps:
 
 1. Clone the repository.
 
-`git clone <repository-url>`
+`git clone https://github.com/sdemaude/so_long.git`
 
 2. Navigate to the project directory.
 
@@ -28,7 +28,7 @@ To run So_Long, follow these steps:
 
 `./so_long <map-file>`
 
->Replace `<repository-url>` with the URL of the project repository and `<map-file>` with the path to the map file you want to play.
+>Replace `<map-file>` with the path to the map file you want to play.
 
 ## Controls
 
