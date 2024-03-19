@@ -48,6 +48,6 @@ If you haven't collected all the items but reach the exit, simply press `4`, `2`
 
 ## Credits
 
-All the assets used for this project were found on [itch.io](https://itch.io/game-assets/free/tag-sprites), the [bear and ennemy sprites](https://thkaspar.itch.io/tth-animals),
-all of the [grass tiles and trees](https://cupnooble.itch.io/sprout-lands-asset-pack) and the [jar of jam](https://ghostpixxells.itch.io/pixelfood).
+All the assets used for this project were found on [itch.io](https://itch.io/game-assets/free/tag-sprites),including the [bear and ennemy sprites](https://thkaspar.itch.io/tth-animals),
+all the [grass tiles and trees](https://cupnooble.itch.io/sprout-lands-asset-pack), and the [jar of jam](https://ghostpixxells.itch.io/pixelfood).
 
